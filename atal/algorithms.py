@@ -18,7 +18,7 @@ def retorna_matriculas_decrescente(alist):
 # Assuma que existe uma quantidade infinita de cada tipo de moeda
 def retorna_minimo_moedas(valor, tipos_moedas):
 	print valor, tipos_moedas
-	resultado = retorna_minimo_moedas_FB(tipos_moedas, valor)
+	resultado = retorna_minimo_moedas_backtracking(tipos_moedas, valor)
 	if resultado == sys.maxint:
 		return -1
 	else:
@@ -35,6 +35,47 @@ def retorna_minimo_moedas_FB(tipos_moedas, valor):
 		if (moeda <= valor):
 			resultado = min(resultado, retorna_minimo_moedas_FB(tipos_moedas, valor - moeda) + 1) 
 		
-	return resultado	 
+	return resultado	
+	
+def retorna_minimo_moedas_backtracking(tipos_moedas, valor):
+	return retorna_minimo_moedas_BT(tipos_moedas, valor, [])
+
+def retorna_minimo_moedas_BT(tipos_moedas, valor, possivel_solucao):
+	tamanho_solucao = -1
+	if eh_solucao(valor, possivel_solucao):
+		return len(possivel_solucao)
+	else:
+		for i in range(len(tipos_moedas)):
+			possivel_solucao.append(tipos_moedas[i])
+			if eh_solucao_promissora(possivel_solucao, valor):
+				tamanho = retorna_minimo_moedas_BT(tipos_moedas, valor, possivel_solucao)
+				if tamanho_solucao == -1:
+					tamanho_solucao = tamanho
+				else:
+					if tamanho_solucao >= tamanho:
+						tamanho_solucao = tamanho
+			possivel_solucao.pop()
+	return tamanho_solucao
+
+#		
+def eh_solucao(valor, moedas):
+	soma = 0
+	for i in range(len(moedas)):
+		soma = soma + moedas[i]
+	return soma == valor
+	
+def eh_solucao_promissora(possivel_solucao, valor):
+	soma = 0
+	for i in range(len(possivel_solucao)):
+		soma = soma + possivel_solucao[i]
+	return soma <= valor
+
+print retorna_minimo_moedas(30, [5,10,15])
+	
+	
+
+	
+
+	
 
 
