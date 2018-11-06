@@ -1,0 +1,3000 @@
+Caso 1: 15
+Executou em: 57.0 microsegundos
+
+Caso 2: 44
+Executou em: 181.0 microsegundos
+
+Caso 3: 42
+Executou em: 161.0 microsegundos
+
+Caso 4: 32
+Executou em: 113.0 microsegundos
+
+Caso 5: 12
+Executou em: 35.0 microsegundos
+
+Caso 6: 36
+Executou em: 139.0 microsegundos
+
+Caso 7: 28
+Executou em: 131.0 microsegundos
+
+Caso 8: 30
+Executou em: 103.0 microsegundos
+
+Caso 9: 16
+Executou em: 47.0 microsegundos
+
+Caso 10: 43
+Executou em: 168.0 microsegundos
+
+Caso 11: 13
+Executou em: 34.0 microsegundos
+
+Caso 12: 13
+Executou em: 36.0 microsegundos
+
+Caso 13: 27
+Executou em: 89.0 microsegundos
+
+Caso 14: 31
+Executou em: 106.0 microsegundos
+
+Caso 15: 44
+Executou em: 174.0 microsegundos
+
+Caso 16: 28
+Executou em: 96.0 microsegundos
+
+Caso 17: 45
+Executou em: 181.0 microsegundos
+
+Caso 18: 30
+Executou em: 103.0 microsegundos
+
+Caso 19: 34
+Executou em: 117.0 microsegundos
+
+Caso 20: 32
+Executou em: 111.0 microsegundos
+
+Caso 21: 39
+Executou em: 147.0 microsegundos
+
+Caso 22: 24
+Executou em: 73.0 microsegundos
+
+Caso 23: 29
+Executou em: 97.0 microsegundos
+
+Caso 24: 10
+Executou em: 31.0 microsegundos
+
+Caso 25: 13
+Executou em: 38.0 microsegundos
+
+Caso 26: 22
+Executou em: 71.0 microsegundos
+
+Caso 27: 24
+Executou em: 72.0 microsegundos
+
+Caso 28: 25
+Executou em: 77.0 microsegundos
+
+Caso 29: 40
+Executou em: 153.0 microsegundos
+
+Caso 30: 21
+Executou em: 64.0 microsegundos
+
+Caso 31: 9
+Executou em: 28.0 microsegundos
+
+Caso 32: 44
+Executou em: 177.0 microsegundos
+
+Caso 33: 12
+Executou em: 36.0 microsegundos
+
+Caso 34: 25
+Executou em: 80.0 microsegundos
+
+Caso 35: 21
+Executou em: 63.0 microsegundos
+
+Caso 36: 27
+Executou em: 89.0 microsegundos
+
+Caso 37: 15
+Executou em: 44.0 microsegundos
+
+Caso 38: 18
+Executou em: 54.0 microsegundos
+
+Caso 39: 36
+Executou em: 131.0 microsegundos
+
+Caso 40: 14
+Executou em: 40.0 microsegundos
+
+Caso 41: 37
+Executou em: 132.0 microsegundos
+
+Caso 42: 36
+Executou em: 131.0 microsegundos
+
+Caso 43: 27
+Executou em: 90.0 microsegundos
+
+Caso 44: 34
+Executou em: 117.0 microsegundos
+
+Caso 45: 4
+Executou em: 17.0 microsegundos
+
+Caso 46: 25
+Executou em: 79.0 microsegundos
+
+Caso 47: 36
+Executou em: 134.0 microsegundos
+
+Caso 48: 12
+Executou em: 44.0 microsegundos
+
+Caso 49: 15
+Executou em: 42.0 microsegundos
+
+Caso 50: 32
+Executou em: 131.0 microsegundos
+
+Caso 51: 27
+Executou em: 104.0 microsegundos
+
+Caso 52: 37
+Executou em: 144.0 microsegundos
+
+Caso 53: 26
+Executou em: 84.0 microsegundos
+
+Caso 54: 35
+Executou em: 125.0 microsegundos
+
+Caso 55: 29
+Executou em: 94.0 microsegundos
+
+Caso 56: 32
+Executou em: 109.0 microsegundos
+
+Caso 57: 14
+Executou em: 36.0 microsegundos
+
+Caso 58: 24
+Executou em: 77.0 microsegundos
+
+Caso 59: 32
+Executou em: 109.0 microsegundos
+
+Caso 60: 5
+Executou em: 17.0 microsegundos
+
+Caso 61: 33
+Executou em: 115.0 microsegundos
+
+Caso 62: 9
+Executou em: 28.0 microsegundos
+
+Caso 63: 22
+Executou em: 66.0 microsegundos
+
+Caso 64: 14
+Executou em: 40.0 microsegundos
+
+Caso 65: 24
+Executou em: 73.0 microsegundos
+
+Caso 66: 9
+Executou em: 28.0 microsegundos
+
+Caso 67: 27
+Executou em: 88.0 microsegundos
+
+Caso 68: 41
+Executou em: 158.0 microsegundos
+
+Caso 69: 16
+Executou em: 48.0 microsegundos
+
+Caso 70: 34
+Executou em: 121.0 microsegundos
+
+Caso 71: 28
+Executou em: 86.0 microsegundos
+
+Caso 72: 28
+Executou em: 114.0 microsegundos
+
+Caso 73: 41
+Executou em: 159.0 microsegundos
+
+Caso 74: 5
+Executou em: 19.0 microsegundos
+
+Caso 75: 7
+Executou em: 22.0 microsegundos
+
+Caso 76: 9
+Executou em: 26.0 microsegundos
+
+Caso 77: 16
+Executou em: 47.0 microsegundos
+
+Caso 78: 20
+Executou em: 61.0 microsegundos
+
+Caso 79: 43
+Executou em: 168.0 microsegundos
+
+Caso 80: 31
+Executou em: 106.0 microsegundos
+
+Caso 81: 40
+Executou em: 151.0 microsegundos
+
+Caso 82: 9
+Executou em: 28.0 microsegundos
+
+Caso 83: 25
+Executou em: 105.0 microsegundos
+
+Caso 84: 6
+Executou em: 29.0 microsegundos
+
+Caso 85: 12
+Executou em: 35.0 microsegundos
+
+Caso 86: 13
+Executou em: 46.0 microsegundos
+
+Caso 87: 31
+Executou em: 105.0 microsegundos
+
+Caso 88: 11
+Executou em: 34.0 microsegundos
+
+Caso 89: 39
+Executou em: 147.0 microsegundos
+
+Caso 90: 12
+Executou em: 33.0 microsegundos
+
+Caso 91: 20
+Executou em: 62.0 microsegundos
+
+Caso 92: 29
+Executou em: 99.0 microsegundos
+
+Caso 93: 24
+Executou em: 98.0 microsegundos
+
+Caso 94: 40
+Executou em: 149.0 microsegundos
+
+Caso 95: 19
+Executou em: 56.0 microsegundos
+
+Caso 96: 11
+Executou em: 32.0 microsegundos
+
+Caso 97: 28
+Executou em: 94.0 microsegundos
+
+Caso 98: 7
+Executou em: 23.0 microsegundos
+
+Caso 99: 17
+Executou em: 52.0 microsegundos
+
+Caso 100: 22
+Executou em: 65.0 microsegundos
+
+Caso 101: 29
+Executou em: 94.0 microsegundos
+
+Caso 102: 12
+Executou em: 54.0 microsegundos
+
+Caso 103: 23
+Executou em: 117.0 microsegundos
+
+Caso 104: 21
+Executou em: 71.0 microsegundos
+
+Caso 105: 36
+Executou em: 133.0 microsegundos
+
+Caso 106: 21
+Executou em: 64.0 microsegundos
+
+Caso 107: 10
+Executou em: 30.0 microsegundos
+
+Caso 108: 33
+Executou em: 116.0 microsegundos
+
+Caso 109: 12
+Executou em: 36.0 microsegundos
+
+Caso 110: 9
+Executou em: 26.0 microsegundos
+
+Caso 111: 21
+Executou em: 65.0 microsegundos
+
+Caso 112: 4
+Executou em: 16.0 microsegundos
+
+Caso 113: 4
+Executou em: 16.0 microsegundos
+
+Caso 114: 24
+Executou em: 76.0 microsegundos
+
+Caso 115: 14
+Executou em: 40.0 microsegundos
+
+Caso 116: 14
+Executou em: 41.0 microsegundos
+
+Caso 117: 43
+Executou em: 168.0 microsegundos
+
+Caso 118: 30
+Executou em: 103.0 microsegundos
+
+Caso 119: 27
+Executou em: 89.0 microsegundos
+
+Caso 120: 39
+Executou em: 146.0 microsegundos
+
+Caso 121: 29
+Executou em: 97.0 microsegundos
+
+Caso 122: 32
+Executou em: 111.0 microsegundos
+
+Caso 123: 6
+Executou em: 21.0 microsegundos
+
+Caso 124: 35
+Executou em: 124.0 microsegundos
+
+Caso 125: 32
+Executou em: 110.0 microsegundos
+
+Caso 126: 26
+Executou em: 86.0 microsegundos
+
+Caso 127: 14
+Executou em: 40.0 microsegundos
+
+Caso 128: 14
+Executou em: 39.0 microsegundos
+
+Caso 129: 22
+Executou em: 67.0 microsegundos
+
+Caso 130: 27
+Executou em: 88.0 microsegundos
+
+Caso 131: 6
+Executou em: 20.0 microsegundos
+
+Caso 132: 15
+Executou em: 42.0 microsegundos
+
+Caso 133: 17
+Executou em: 51.0 microsegundos
+
+Caso 134: 40
+Executou em: 147.0 microsegundos
+
+Caso 135: 30
+Executou em: 102.0 microsegundos
+
+Caso 136: 40
+Executou em: 151.0 microsegundos
+
+Caso 137: 40
+Executou em: 153.0 microsegundos
+
+Caso 138: 12
+Executou em: 33.0 microsegundos
+
+Caso 139: 7
+Executou em: 22.0 microsegundos
+
+Caso 140: 24
+Executou em: 76.0 microsegundos
+
+Caso 141: 11
+Executou em: 30.0 microsegundos
+
+Caso 142: 34
+Executou em: 130.0 microsegundos
+
+Caso 143: 12
+Executou em: 45.0 microsegundos
+
+Caso 144: 28
+Executou em: 93.0 microsegundos
+
+Caso 145: 30
+Executou em: 100.0 microsegundos
+
+Caso 146: 38
+Executou em: 136.0 microsegundos
+
+Caso 147: 7
+Executou em: 22.0 microsegundos
+
+Caso 148: 27
+Executou em: 88.0 microsegundos
+
+Caso 149: 29
+Executou em: 97.0 microsegundos
+
+Caso 150: 32
+Executou em: 111.0 microsegundos
+
+Caso 151: 4
+Executou em: 13.0 microsegundos
+
+Caso 152: 18
+Executou em: 55.0 microsegundos
+
+Caso 153: 29
+Executou em: 93.0 microsegundos
+
+Caso 154: 26
+Executou em: 85.0 microsegundos
+
+Caso 155: 17
+Executou em: 51.0 microsegundos
+
+Caso 156: 18
+Executou em: 53.0 microsegundos
+
+Caso 157: 28
+Executou em: 93.0 microsegundos
+
+Caso 158: 17
+Executou em: 51.0 microsegundos
+
+Caso 159: 38
+Executou em: 141.0 microsegundos
+
+Caso 160: 8
+Executou em: 25.0 microsegundos
+
+Caso 161: 7
+Executou em: 21.0 microsegundos
+
+Caso 162: 14
+Executou em: 40.0 microsegundos
+
+Caso 163: 16
+Executou em: 46.0 microsegundos
+
+Caso 164: 7
+Executou em: 23.0 microsegundos
+
+Caso 165: 29
+Executou em: 90.0 microsegundos
+
+Caso 166: 23
+Executou em: 72.0 microsegundos
+
+Caso 167: 24
+Executou em: 77.0 microsegundos
+
+Caso 168: 15
+Executou em: 42.0 microsegundos
+
+Caso 169: 9
+Executou em: 26.0 microsegundos
+
+Caso 170: 15
+Executou em: 45.0 microsegundos
+
+Caso 171: 29
+Executou em: 97.0 microsegundos
+
+Caso 172: 12
+Executou em: 32.0 microsegundos
+
+Caso 173: 43
+Executou em: 168.0 microsegundos
+
+Caso 174: 35
+Executou em: 126.0 microsegundos
+
+Caso 175: 20
+Executou em: 61.0 microsegundos
+
+Caso 176: 37
+Executou em: 136.0 microsegundos
+
+Caso 177: 19
+Executou em: 57.0 microsegundos
+
+Caso 178: 14
+Executou em: 40.0 microsegundos
+
+Caso 179: 18
+Executou em: 53.0 microsegundos
+
+Caso 180: 10
+Executou em: 30.0 microsegundos
+
+Caso 181: 42
+Executou em: 166.0 microsegundos
+
+Caso 182: 13
+Executou em: 38.0 microsegundos
+
+Caso 183: 19
+Executou em: 56.0 microsegundos
+
+Caso 184: 27
+Executou em: 89.0 microsegundos
+
+Caso 185: 15
+Executou em: 44.0 microsegundos
+
+Caso 186: 14
+Executou em: 41.0 microsegundos
+
+Caso 187: 31
+Executou em: 107.0 microsegundos
+
+Caso 188: 15
+Executou em: 43.0 microsegundos
+
+Caso 189: 42
+Executou em: 166.0 microsegundos
+
+Caso 190: 13
+Executou em: 40.0 microsegundos
+
+Caso 191: 38
+Executou em: 155.0 microsegundos
+
+Caso 192: 16
+Executou em: 47.0 microsegundos
+
+Caso 193: 36
+Executou em: 131.0 microsegundos
+
+Caso 194: 31
+Executou em: 106.0 microsegundos
+
+Caso 195: 24
+Executou em: 70.0 microsegundos
+
+Caso 196: 18
+Executou em: 52.0 microsegundos
+
+Caso 197: 32
+Executou em: 107.0 microsegundos
+
+Caso 198: 35
+Executou em: 125.0 microsegundos
+
+Caso 199: 34
+Executou em: 122.0 microsegundos
+
+Caso 200: 31
+Executou em: 106.0 microsegundos
+
+Caso 201: 4
+Executou em: 16.0 microsegundos
+
+Caso 202: 35
+Executou em: 117.0 microsegundos
+
+Caso 203: 36
+Executou em: 127.0 microsegundos
+
+Caso 204: 11
+Executou em: 33.0 microsegundos
+
+Caso 205: 12
+Executou em: 34.0 microsegundos
+
+Caso 206: 41
+Executou em: 157.0 microsegundos
+
+Caso 207: 15
+Executou em: 44.0 microsegundos
+
+Caso 208: 34
+Executou em: 121.0 microsegundos
+
+Caso 209: 8
+Executou em: 25.0 microsegundos
+
+Caso 210: 38
+Executou em: 141.0 microsegundos
+
+Caso 211: 15
+Executou em: 42.0 microsegundos
+
+Caso 212: 14
+Executou em: 39.0 microsegundos
+
+Caso 213: 35
+Executou em: 125.0 microsegundos
+
+Caso 214: 15
+Executou em: 65.0 microsegundos
+
+Caso 215: 4
+Executou em: 23.0 microsegundos
+
+Caso 216: 16
+Executou em: 45.0 microsegundos
+
+Caso 217: 21
+Executou em: 65.0 microsegundos
+
+Caso 218: 11
+Executou em: 31.0 microsegundos
+
+Caso 219: 30
+Executou em: 102.0 microsegundos
+
+Caso 220: 6
+Executou em: 18.0 microsegundos
+
+Caso 221: 41
+Executou em: 157.0 microsegundos
+
+Caso 222: 11
+Executou em: 33.0 microsegundos
+
+Caso 223: 40
+Executou em: 152.0 microsegundos
+
+Caso 224: 38
+Executou em: 137.0 microsegundos
+
+Caso 225: 4
+Executou em: 17.0 microsegundos
+
+Caso 226: 34
+Executou em: 143.0 microsegundos
+
+Caso 227: 19
+Executou em: 105.0 microsegundos
+
+Caso 228: 33
+Executou em: 210.0 microsegundos
+
+Caso 229: 19
+Executou em: 66.0 microsegundos
+
+Caso 230: 4
+Executou em: 18.0 microsegundos
+
+Caso 231: 42
+Executou em: 174.0 microsegundos
+
+Caso 232: 32
+Executou em: 122.0 microsegundos
+
+Caso 233: 14
+Executou em: 48.0 microsegundos
+
+Caso 234: 34
+Executou em: 123.0 microsegundos
+
+Caso 235: 17
+Executou em: 51.0 microsegundos
+
+Caso 236: 26
+Executou em: 78.0 microsegundos
+
+Caso 237: 5
+Executou em: 19.0 microsegundos
+
+Caso 238: 33
+Executou em: 115.0 microsegundos
+
+Caso 239: 21
+Executou em: 64.0 microsegundos
+
+Caso 240: 38
+Executou em: 143.0 microsegundos
+
+Caso 241: 8
+Executou em: 24.0 microsegundos
+
+Caso 242: 30
+Executou em: 102.0 microsegundos
+
+Caso 243: 40
+Executou em: 152.0 microsegundos
+
+Caso 244: 41
+Executou em: 158.0 microsegundos
+
+Caso 245: 7
+Executou em: 23.0 microsegundos
+
+Caso 246: 37
+Executou em: 135.0 microsegundos
+
+Caso 247: 4
+Executou em: 17.0 microsegundos
+
+Caso 248: 24
+Executou em: 70.0 microsegundos
+
+Caso 249: 31
+Executou em: 108.0 microsegundos
+
+Caso 250: 6
+Executou em: 21.0 microsegundos
+
+Caso 251: 29
+Executou em: 97.0 microsegundos
+
+Caso 252: 38
+Executou em: 148.0 microsegundos
+
+Caso 253: 26
+Executou em: 92.0 microsegundos
+
+Caso 254: 34
+Executou em: 118.0 microsegundos
+
+Caso 255: 30
+Executou em: 108.0 microsegundos
+
+Caso 256: 10
+Executou em: 37.0 microsegundos
+
+Caso 257: 26
+Executou em: 102.0 microsegundos
+
+Caso 258: 13
+Executou em: 47.0 microsegundos
+
+Caso 259: 41
+Executou em: 178.0 microsegundos
+
+Caso 260: 36
+Executou em: 154.0 microsegundos
+
+Caso 261: 7
+Executou em: 31.0 microsegundos
+
+Caso 262: 14
+Executou em: 48.0 microsegundos
+
+Caso 263: 11
+Executou em: 49.0 microsegundos
+
+Caso 264: 36
+Executou em: 153.0 microsegundos
+
+Caso 265: 7
+Executou em: 53.0 microsegundos
+
+Caso 266: 20
+Executou em: 73.0 microsegundos
+
+Caso 267: 41
+Executou em: 163.0 microsegundos
+
+Caso 268: 28
+Executou em: 108.0 microsegundos
+
+Caso 269: 13
+Executou em: 38.0 microsegundos
+
+Caso 270: 16
+Executou em: 51.0 microsegundos
+
+Caso 271: 1
+Executou em: 10.0 microsegundos
+
+Caso 272: 15
+Executou em: 45.0 microsegundos
+
+Caso 273: 21
+Executou em: 64.0 microsegundos
+
+Caso 274: 22
+Executou em: 68.0 microsegundos
+
+Caso 275: 22
+Executou em: 108.0 microsegundos
+
+Caso 276: 22
+Executou em: 71.0 microsegundos
+
+Caso 277: 11
+Executou em: 29.0 microsegundos
+
+Caso 278: 22
+Executou em: 70.0 microsegundos
+
+Caso 279: 39
+Executou em: 147.0 microsegundos
+
+Caso 280: 6
+Executou em: 20.0 microsegundos
+
+Caso 281: 6
+Executou em: 21.0 microsegundos
+
+Caso 282: 8
+Executou em: 25.0 microsegundos
+
+Caso 283: 25
+Executou em: 77.0 microsegundos
+
+Caso 284: 27
+Executou em: 88.0 microsegundos
+
+Caso 285: 11
+Executou em: 33.0 microsegundos
+
+Caso 286: 14
+Executou em: 41.0 microsegundos
+
+Caso 287: 15
+Executou em: 43.0 microsegundos
+
+Caso 288: 18
+Executou em: 54.0 microsegundos
+
+Caso 289: 16
+Executou em: 46.0 microsegundos
+
+Caso 290: 42
+Executou em: 162.0 microsegundos
+
+Caso 291: 20
+Executou em: 60.0 microsegundos
+
+Caso 292: 14
+Executou em: 41.0 microsegundos
+
+Caso 293: 7
+Executou em: 21.0 microsegundos
+
+Caso 294: 6
+Executou em: 20.0 microsegundos
+
+Caso 295: 11
+Executou em: 33.0 microsegundos
+
+Caso 296: 25
+Executou em: 80.0 microsegundos
+
+Caso 297: 13
+Executou em: 38.0 microsegundos
+
+Caso 298: 28
+Executou em: 93.0 microsegundos
+
+Caso 299: 33
+Executou em: 115.0 microsegundos
+
+Caso 300: 4
+Executou em: 17.0 microsegundos
+
+Caso 301: 36
+Executou em: 131.0 microsegundos
+
+Caso 302: 23
+Executou em: 73.0 microsegundos
+
+Caso 303: 33
+Executou em: 115.0 microsegundos
+
+Caso 304: 14
+Executou em: 41.0 microsegundos
+
+Caso 305: 18
+Executou em: 54.0 microsegundos
+
+Caso 306: 39
+Executou em: 141.0 microsegundos
+
+Caso 307: 30
+Executou em: 100.0 microsegundos
+
+Caso 308: 26
+Executou em: 83.0 microsegundos
+
+Caso 309: 32
+Executou em: 109.0 microsegundos
+
+Caso 310: 6
+Executou em: 20.0 microsegundos
+
+Caso 311: 7
+Executou em: 23.0 microsegundos
+
+Caso 312: 15
+Executou em: 44.0 microsegundos
+
+Caso 313: 37
+Executou em: 135.0 microsegundos
+
+Caso 314: 22
+Executou em: 68.0 microsegundos
+
+Caso 315: 34
+Executou em: 120.0 microsegundos
+
+Caso 316: 22
+Executou em: 75.0 microsegundos
+
+Caso 317: 24
+Executou em: 93.0 microsegundos
+
+Caso 318: 7
+Executou em: 32.0 microsegundos
+
+Caso 319: 37
+Executou em: 135.0 microsegundos
+
+Caso 320: 5
+Executou em: 19.0 microsegundos
+
+Caso 321: 20
+Executou em: 59.0 microsegundos
+
+Caso 322: 35
+Executou em: 125.0 microsegundos
+
+Caso 323: 12
+Executou em: 30.0 microsegundos
+
+Caso 324: 18
+Executou em: 53.0 microsegundos
+
+Caso 325: 32
+Executou em: 127.0 microsegundos
+
+Caso 326: 38
+Executou em: 238.0 microsegundos
+
+Caso 327: 12
+Executou em: 42.0 microsegundos
+
+Caso 328: 15
+Executou em: 44.0 microsegundos
+
+Caso 329: 39
+Executou em: 146.0 microsegundos
+
+Caso 330: 12
+Executou em: 34.0 microsegundos
+
+Caso 331: 35
+Executou em: 121.0 microsegundos
+
+Caso 332: 8
+Executou em: 24.0 microsegundos
+
+Caso 333: 25
+Executou em: 80.0 microsegundos
+
+Caso 334: 34
+Executou em: 116.0 microsegundos
+
+Caso 335: 13
+Executou em: 37.0 microsegundos
+
+Caso 336: 4
+Executou em: 15.0 microsegundos
+
+Caso 337: 34
+Executou em: 121.0 microsegundos
+
+Caso 338: 23
+Executou em: 73.0 microsegundos
+
+Caso 339: 37
+Executou em: 135.0 microsegundos
+
+Caso 340: 33
+Executou em: 115.0 microsegundos
+
+Caso 341: 14
+Executou em: 41.0 microsegundos
+
+Caso 342: 7
+Executou em: 21.0 microsegundos
+
+Caso 343: 30
+Executou em: 101.0 microsegundos
+
+Caso 344: 3
+Executou em: 15.0 microsegundos
+
+Caso 345: 21
+Executou em: 64.0 microsegundos
+
+Caso 346: 35
+Executou em: 126.0 microsegundos
+
+Caso 347: 23
+Executou em: 72.0 microsegundos
+
+Caso 348: 29
+Executou em: 98.0 microsegundos
+
+Caso 349: 36
+Executou em: 130.0 microsegundos
+
+Caso 350: 14
+Executou em: 41.0 microsegundos
+
+Caso 351: 18
+Executou em: 54.0 microsegundos
+
+Caso 352: 19
+Executou em: 57.0 microsegundos
+
+Caso 353: 19
+Executou em: 58.0 microsegundos
+
+Caso 354: 15
+Executou em: 45.0 microsegundos
+
+Caso 355: 42
+Executou em: 162.0 microsegundos
+
+Caso 356: 40
+Executou em: 150.0 microsegundos
+
+Caso 357: 32
+Executou em: 111.0 microsegundos
+
+Caso 358: 28
+Executou em: 96.0 microsegundos
+
+Caso 359: 38
+Executou em: 141.0 microsegundos
+
+Caso 360: 17
+Executou em: 51.0 microsegundos
+
+Caso 361: 32
+Executou em: 112.0 microsegundos
+
+Caso 362: 16
+Executou em: 47.0 microsegundos
+
+Caso 363: 21
+Executou em: 58.0 microsegundos
+
+Caso 364: 5
+Executou em: 18.0 microsegundos
+
+Caso 365: 6
+Executou em: 20.0 microsegundos
+
+Caso 366: 45
+Executou em: 196.0 microsegundos
+
+Caso 367: 38
+Executou em: 158.0 microsegundos
+
+Caso 368: 32
+Executou em: 113.0 microsegundos
+
+Caso 369: 23
+Executou em: 70.0 microsegundos
+
+Caso 370: 36
+Executou em: 142.0 microsegundos
+
+Caso 371: 19
+Executou em: 76.0 microsegundos
+
+Caso 372: 4
+Executou em: 26.0 microsegundos
+
+Caso 373: 17
+Executou em: 60.0 microsegundos
+
+Caso 374: 42
+Executou em: 194.0 microsegundos
+
+Caso 375: 3
+Executou em: 16.0 microsegundos
+
+Caso 376: 9
+Executou em: 27.0 microsegundos
+
+Caso 377: 7
+Executou em: 23.0 microsegundos
+
+Caso 378: 24
+Executou em: 78.0 microsegundos
+
+Caso 379: 31
+Executou em: 107.0 microsegundos
+
+Caso 380: 15
+Executou em: 44.0 microsegundos
+
+Caso 381: 10
+Executou em: 30.0 microsegundos
+
+Caso 382: 44
+Executou em: 174.0 microsegundos
+
+Caso 383: 6
+Executou em: 20.0 microsegundos
+
+Caso 384: 25
+Executou em: 81.0 microsegundos
+
+Caso 385: 33
+Executou em: 116.0 microsegundos
+
+Caso 386: 24
+Executou em: 76.0 microsegundos
+
+Caso 387: 23
+Executou em: 73.0 microsegundos
+
+Caso 388: 40
+Executou em: 151.0 microsegundos
+
+Caso 389: 28
+Executou em: 93.0 microsegundos
+
+Caso 390: 5
+Executou em: 18.0 microsegundos
+
+Caso 391: 41
+Executou em: 157.0 microsegundos
+
+Caso 392: 8
+Executou em: 25.0 microsegundos
+
+Caso 393: 32
+Executou em: 112.0 microsegundos
+
+Caso 394: 38
+Executou em: 142.0 microsegundos
+
+Caso 395: 34
+Executou em: 121.0 microsegundos
+
+Caso 396: 2
+Executou em: 13.0 microsegundos
+
+Caso 397: 16
+Executou em: 48.0 microsegundos
+
+Caso 398: 8
+Executou em: 26.0 microsegundos
+
+Caso 399: 45
+Executou em: 180.0 microsegundos
+
+Caso 400: 23
+Executou em: 73.0 microsegundos
+
+Caso 401: 20
+Executou em: 62.0 microsegundos
+
+Caso 402: 9
+Executou em: 27.0 microsegundos
+
+Caso 403: 15
+Executou em: 44.0 microsegundos
+
+Caso 404: 33
+Executou em: 116.0 microsegundos
+
+Caso 405: 39
+Executou em: 141.0 microsegundos
+
+Caso 406: 31
+Executou em: 109.0 microsegundos
+
+Caso 407: 15
+Executou em: 53.0 microsegundos
+
+Caso 408: 38
+Executou em: 162.0 microsegundos
+
+Caso 409: 5
+Executou em: 26.0 microsegundos
+
+Caso 410: 30
+Executou em: 103.0 microsegundos
+
+Caso 411: 33
+Executou em: 113.0 microsegundos
+
+Caso 412: 25
+Executou em: 77.0 microsegundos
+
+Caso 413: 19
+Executou em: 58.0 microsegundos
+
+Caso 414: 16
+Executou em: 47.0 microsegundos
+
+Caso 415: 12
+Executou em: 35.0 microsegundos
+
+Caso 416: 40
+Executou em: 158.0 microsegundos
+
+Caso 417: 41
+Executou em: 154.0 microsegundos
+
+Caso 418: 41
+Executou em: 156.0 microsegundos
+
+Caso 419: 28
+Executou em: 92.0 microsegundos
+
+Caso 420: 38
+Executou em: 137.0 microsegundos
+
+Caso 421: 43
+Executou em: 160.0 microsegundos
+
+Caso 422: 11
+Executou em: 40.0 microsegundos
+
+Caso 423: 43
+Executou em: 162.0 microsegundos
+
+Caso 424: 23
+Executou em: 73.0 microsegundos
+
+Caso 425: 38
+Executou em: 139.0 microsegundos
+
+Caso 426: 9
+Executou em: 28.0 microsegundos
+
+Caso 427: 15
+Executou em: 44.0 microsegundos
+
+Caso 428: 38
+Executou em: 132.0 microsegundos
+
+Caso 429: 9
+Executou em: 27.0 microsegundos
+
+Caso 430: 30
+Executou em: 102.0 microsegundos
+
+Caso 431: 33
+Executou em: 112.0 microsegundos
+
+Caso 432: 41
+Executou em: 158.0 microsegundos
+
+Caso 433: 15
+Executou em: 44.0 microsegundos
+
+Caso 434: 22
+Executou em: 67.0 microsegundos
+
+Caso 435: 21
+Executou em: 65.0 microsegundos
+
+Caso 436: 16
+Executou em: 47.0 microsegundos
+
+Caso 437: 43
+Executou em: 168.0 microsegundos
+
+Caso 438: 14
+Executou em: 42.0 microsegundos
+
+Caso 439: 23
+Executou em: 69.0 microsegundos
+
+Caso 440: 38
+Executou em: 141.0 microsegundos
+
+Caso 441: 16
+Executou em: 47.0 microsegundos
+
+Caso 442: 19
+Executou em: 52.0 microsegundos
+
+Caso 443: 5
+Executou em: 18.0 microsegundos
+
+Caso 444: 8
+Executou em: 25.0 microsegundos
+
+Caso 445: 12
+Executou em: 36.0 microsegundos
+
+Caso 446: 6
+Executou em: 19.0 microsegundos
+
+Caso 447: 18
+Executou em: 98.0 microsegundos
+
+Caso 448: 24
+Executou em: 152.0 microsegundos
+
+Caso 449: 12
+Executou em: 43.0 microsegundos
+
+Caso 450: 23
+Executou em: 134.0 microsegundos
+
+Caso 451: 37
+Executou em: 286.0 microsegundos
+
+Caso 452: 2
+Executou em: 22.0 microsegundos
+
+Caso 453: 11
+Executou em: 59.0 microsegundos
+
+Caso 454: 27
+Executou em: 157.0 microsegundos
+
+Caso 455: 37
+Executou em: 206.0 microsegundos
+
+Caso 456: 23
+Executou em: 151.0 microsegundos
+
+Caso 457: 1
+Executou em: 32.0 microsegundos
+
+Caso 458: 40
+Executou em: 291.0 microsegundos
+
+Caso 459: 32
+Executou em: 227.0 microsegundos
+
+Caso 460: 32
+Executou em: 135.0 microsegundos
+
+Caso 461: 36
+Executou em: 143.0 microsegundos
+
+Caso 462: 28
+Executou em: 101.0 microsegundos
+
+Caso 463: 6
+Executou em: 20.0 microsegundos
+
+Caso 464: 31
+Executou em: 108.0 microsegundos
+
+Caso 465: 37
+Executou em: 137.0 microsegundos
+
+Caso 466: 35
+Executou em: 126.0 microsegundos
+
+Caso 467: 27
+Executou em: 90.0 microsegundos
+
+Caso 468: 15
+Executou em: 44.0 microsegundos
+
+Caso 469: 32
+Executou em: 112.0 microsegundos
+
+Caso 470: 23
+Executou em: 69.0 microsegundos
+
+Caso 471: 7
+Executou em: 22.0 microsegundos
+
+Caso 472: 24
+Executou em: 77.0 microsegundos
+
+Caso 473: 8
+Executou em: 25.0 microsegundos
+
+Caso 474: 23
+Executou em: 73.0 microsegundos
+
+Caso 475: 40
+Executou em: 151.0 microsegundos
+
+Caso 476: 30
+Executou em: 102.0 microsegundos
+
+Caso 477: 8
+Executou em: 26.0 microsegundos
+
+Caso 478: 14
+Executou em: 41.0 microsegundos
+
+Caso 479: 24
+Executou em: 76.0 microsegundos
+
+Caso 480: 11
+Executou em: 32.0 microsegundos
+
+Caso 481: 41
+Executou em: 157.0 microsegundos
+
+Caso 482: 26
+Executou em: 84.0 microsegundos
+
+Caso 483: 26
+Executou em: 85.0 microsegundos
+
+Caso 484: 36
+Executou em: 130.0 microsegundos
+
+Caso 485: 32
+Executou em: 111.0 microsegundos
+
+Caso 486: 9
+Executou em: 28.0 microsegundos
+
+Caso 487: 4
+Executou em: 17.0 microsegundos
+
+Caso 488: 36
+Executou em: 130.0 microsegundos
+
+Caso 489: 8
+Executou em: 25.0 microsegundos
+
+Caso 490: 27
+Executou em: 86.0 microsegundos
+
+Caso 491: 40
+Executou em: 152.0 microsegundos
+
+Caso 492: 13
+Executou em: 38.0 microsegundos
+
+Caso 493: 37
+Executou em: 126.0 microsegundos
+
+Caso 494: 26
+Executou em: 96.0 microsegundos
+
+Caso 495: 20
+Executou em: 70.0 microsegundos
+
+Caso 496: 40
+Executou em: 150.0 microsegundos
+
+Caso 497: 7
+Executou em: 32.0 microsegundos
+
+Caso 498: 16
+Executou em: 55.0 microsegundos
+
+Caso 499: 4
+Executou em: 15.0 microsegundos
+
+Caso 500: 36
+Executou em: 130.0 microsegundos
+
+Caso 501: 12
+Executou em: 44.0 microsegundos
+
+Caso 502: 46
+Executou em: 198.0 microsegundos
+
+Caso 503: 14
+Executou em: 49.0 microsegundos
+
+Caso 504: 29
+Executou em: 106.0 microsegundos
+
+Caso 505: 17
+Executou em: 50.0 microsegundos
+
+Caso 506: 19
+Executou em: 54.0 microsegundos
+
+Caso 507: 42
+Executou em: 163.0 microsegundos
+
+Caso 508: 12
+Executou em: 44.0 microsegundos
+
+Caso 509: 33
+Executou em: 124.0 microsegundos
+
+Caso 510: 40
+Executou em: 151.0 microsegundos
+
+Caso 511: 10
+Executou em: 40.0 microsegundos
+
+Caso 512: 41
+Executou em: 166.0 microsegundos
+
+Caso 513: 40
+Executou em: 148.0 microsegundos
+
+Caso 514: 6
+Executou em: 30.0 microsegundos
+
+Caso 515: 35
+Executou em: 134.0 microsegundos
+
+Caso 516: 30
+Executou em: 103.0 microsegundos
+
+Caso 517: 41
+Executou em: 167.0 microsegundos
+
+Caso 518: 23
+Executou em: 78.0 microsegundos
+
+Caso 519: 21
+Executou em: 73.0 microsegundos
+
+Caso 520: 4
+Executou em: 16.0 microsegundos
+
+Caso 521: 41
+Executou em: 156.0 microsegundos
+
+Caso 522: 41
+Executou em: 152.0 microsegundos
+
+Caso 523: 19
+Executou em: 71.0 microsegundos
+
+Caso 524: 24
+Executou em: 82.0 microsegundos
+
+Caso 525: 36
+Executou em: 130.0 microsegundos
+
+Caso 526: 7
+Executou em: 32.0 microsegundos
+
+Caso 527: 17
+Executou em: 60.0 microsegundos
+
+Caso 528: 36
+Executou em: 131.0 microsegundos
+
+Caso 529: 16
+Executou em: 52.0 microsegundos
+
+Caso 530: 36
+Executou em: 141.0 microsegundos
+
+Caso 531: 7
+Executou em: 33.0 microsegundos
+
+Caso 532: 33
+Executou em: 124.0 microsegundos
+
+Caso 533: 5
+Executou em: 15.0 microsegundos
+
+Caso 534: 43
+Executou em: 253.0 microsegundos
+
+Caso 535: 21
+Executou em: 81.0 microsegundos
+
+Caso 536: 27
+Executou em: 91.0 microsegundos
+
+Caso 537: 3
+Executou em: 15.0 microsegundos
+
+Caso 538: 9
+Executou em: 28.0 microsegundos
+
+Caso 539: 34
+Executou em: 116.0 microsegundos
+
+Caso 540: 35
+Executou em: 121.0 microsegundos
+
+Caso 541: 43
+Executou em: 172.0 microsegundos
+
+Caso 542: 28
+Executou em: 95.0 microsegundos
+
+Caso 543: 7
+Executou em: 24.0 microsegundos
+
+Caso 544: 14
+Executou em: 41.0 microsegundos
+
+Caso 545: 36
+Executou em: 127.0 microsegundos
+
+Caso 546: 12
+Executou em: 35.0 microsegundos
+
+Caso 547: 13
+Executou em: 37.0 microsegundos
+
+Caso 548: 23
+Executou em: 73.0 microsegundos
+
+Caso 549: 32
+Executou em: 111.0 microsegundos
+
+Caso 550: 25
+Executou em: 80.0 microsegundos
+
+Caso 551: 43
+Executou em: 200.0 microsegundos
+
+Caso 552: 17
+Executou em: 89.0 microsegundos
+
+Caso 553: 33
+Executou em: 249.0 microsegundos
+
+Caso 554: 11
+Executou em: 50.0 microsegundos
+
+Caso 555: 28
+Executou em: 95.0 microsegundos
+
+Caso 556: 32
+Executou em: 119.0 microsegundos
+
+Caso 557: 45
+Executou em: 197.0 microsegundos
+
+Caso 558: 37
+Executou em: 138.0 microsegundos
+
+Caso 559: 8
+Executou em: 26.0 microsegundos
+
+Caso 560: 20
+Executou em: 62.0 microsegundos
+
+Caso 561: 9
+Executou em: 27.0 microsegundos
+
+Caso 562: 19
+Executou em: 58.0 microsegundos
+
+Caso 563: 39
+Executou em: 146.0 microsegundos
+
+Caso 564: 30
+Executou em: 101.0 microsegundos
+
+Caso 565: 15
+Executou em: 44.0 microsegundos
+
+Caso 566: 2
+Executou em: 10.0 microsegundos
+
+Caso 567: 35
+Executou em: 125.0 microsegundos
+
+Caso 568: 39
+Executou em: 146.0 microsegundos
+
+Caso 569: 43
+Executou em: 169.0 microsegundos
+
+Caso 570: 24
+Executou em: 75.0 microsegundos
+
+Caso 571: 15
+Executou em: 43.0 microsegundos
+
+Caso 572: 6
+Executou em: 18.0 microsegundos
+
+Caso 573: 14
+Executou em: 56.0 microsegundos
+
+Caso 574: 31
+Executou em: 117.0 microsegundos
+
+Caso 575: 28
+Executou em: 92.0 microsegundos
+
+Caso 576: 10
+Executou em: 31.0 microsegundos
+
+Caso 577: 31
+Executou em: 107.0 microsegundos
+
+Caso 578: 13
+Executou em: 37.0 microsegundos
+
+Caso 579: 40
+Executou em: 154.0 microsegundos
+
+Caso 580: 13
+Executou em: 45.0 microsegundos
+
+Caso 581: 33
+Executou em: 122.0 microsegundos
+
+Caso 582: 24
+Executou em: 74.0 microsegundos
+
+Caso 583: 43
+Executou em: 176.0 microsegundos
+
+Caso 584: 13
+Executou em: 47.0 microsegundos
+
+Caso 585: 19
+Executou em: 66.0 microsegundos
+
+Caso 586: 13
+Executou em: 41.0 microsegundos
+
+Caso 587: 18
+Executou em: 58.0 microsegundos
+
+Caso 588: 13
+Executou em: 42.0 microsegundos
+
+Caso 589: 26
+Executou em: 87.0 microsegundos
+
+Caso 590: 44
+Executou em: 182.0 microsegundos
+
+Caso 591: 9
+Executou em: 36.0 microsegundos
+
+Caso 592: 12
+Executou em: 38.0 microsegundos
+
+Caso 593: 31
+Executou em: 117.0 microsegundos
+
+Caso 594: 41
+Executou em: 167.0 microsegundos
+
+Caso 595: 10
+Executou em: 41.0 microsegundos
+
+Caso 596: 15
+Executou em: 55.0 microsegundos
+
+Caso 597: 9
+Executou em: 28.0 microsegundos
+
+Caso 598: 40
+Executou em: 150.0 microsegundos
+
+Caso 599: 33
+Executou em: 116.0 microsegundos
+
+Caso 600: 33
+Executou em: 116.0 microsegundos
+
+Caso 601: 3
+Executou em: 15.0 microsegundos
+
+Caso 602: 17
+Executou em: 50.0 microsegundos
+
+Caso 603: 9
+Executou em: 26.0 microsegundos
+
+Caso 604: 23
+Executou em: 69.0 microsegundos
+
+Caso 605: 23
+Executou em: 71.0 microsegundos
+
+Caso 606: 31
+Executou em: 103.0 microsegundos
+
+Caso 607: 44
+Executou em: 171.0 microsegundos
+
+Caso 608: 9
+Executou em: 38.0 microsegundos
+
+Caso 609: 9
+Executou em: 28.0 microsegundos
+
+Caso 610: 9
+Executou em: 27.0 microsegundos
+
+Caso 611: 19
+Executou em: 57.0 microsegundos
+
+Caso 612: 21
+Executou em: 65.0 microsegundos
+
+Caso 613: 41
+Executou em: 156.0 microsegundos
+
+Caso 614: 16
+Executou em: 45.0 microsegundos
+
+Caso 615: 18
+Executou em: 53.0 microsegundos
+
+Caso 616: 28
+Executou em: 85.0 microsegundos
+
+Caso 617: 19
+Executou em: 57.0 microsegundos
+
+Caso 618: 34
+Executou em: 122.0 microsegundos
+
+Caso 619: 42
+Executou em: 188.0 microsegundos
+
+Caso 620: 37
+Executou em: 136.0 microsegundos
+
+Caso 621: 40
+Executou em: 153.0 microsegundos
+
+Caso 622: 5
+Executou em: 18.0 microsegundos
+
+Caso 623: 41
+Executou em: 156.0 microsegundos
+
+Caso 624: 32
+Executou em: 174.0 microsegundos
+
+Caso 625: 21
+Executou em: 113.0 microsegundos
+
+Caso 626: 27
+Executou em: 153.0 microsegundos
+
+Caso 627: 42
+Executou em: 297.0 microsegundos
+
+Caso 628: 18
+Executou em: 112.0 microsegundos
+
+Caso 629: 28
+Executou em: 188.0 microsegundos
+
+Caso 630: 23
+Executou em: 82.0 microsegundos
+
+Caso 631: 26
+Executou em: 86.0 microsegundos
+
+Caso 632: 24
+Executou em: 76.0 microsegundos
+
+Caso 633: 35
+Executou em: 126.0 microsegundos
+
+Caso 634: 20
+Executou em: 62.0 microsegundos
+
+Caso 635: 27
+Executou em: 89.0 microsegundos
+
+Caso 636: 40
+Executou em: 151.0 microsegundos
+
+Caso 637: 16
+Executou em: 48.0 microsegundos
+
+Caso 638: 18
+Executou em: 55.0 microsegundos
+
+Caso 639: 20
+Executou em: 61.0 microsegundos
+
+Caso 640: 41
+Executou em: 158.0 microsegundos
+
+Caso 641: 21
+Executou em: 65.0 microsegundos
+
+Caso 642: 12
+Executou em: 36.0 microsegundos
+
+Caso 643: 44
+Executou em: 174.0 microsegundos
+
+Caso 644: 8
+Executou em: 24.0 microsegundos
+
+Caso 645: 3
+Executou em: 13.0 microsegundos
+
+Caso 646: 18
+Executou em: 54.0 microsegundos
+
+Caso 647: 6
+Executou em: 21.0 microsegundos
+
+Caso 648: 20
+Executou em: 61.0 microsegundos
+
+Caso 649: 28
+Executou em: 93.0 microsegundos
+
+Caso 650: 34
+Executou em: 120.0 microsegundos
+
+Caso 651: 20
+Executou em: 62.0 microsegundos
+
+Caso 652: 4
+Executou em: 17.0 microsegundos
+
+Caso 653: 22
+Executou em: 69.0 microsegundos
+
+Caso 654: 9
+Executou em: 28.0 microsegundos
+
+Caso 655: 33
+Executou em: 112.0 microsegundos
+
+Caso 656: 26
+Executou em: 104.0 microsegundos
+
+Caso 657: 19
+Executou em: 76.0 microsegundos
+
+Caso 658: 42
+Executou em: 169.0 microsegundos
+
+Caso 659: 22
+Executou em: 85.0 microsegundos
+
+Caso 660: 28
+Executou em: 107.0 microsegundos
+
+Caso 661: 3
+Executou em: 21.0 microsegundos
+
+Caso 662: 22
+Executou em: 66.0 microsegundos
+
+Caso 663: 19
+Executou em: 56.0 microsegundos
+
+Caso 664: 35
+Executou em: 126.0 microsegundos
+
+Caso 665: 8
+Executou em: 25.0 microsegundos
+
+Caso 666: 10
+Executou em: 29.0 microsegundos
+
+Caso 667: 18
+Executou em: 55.0 microsegundos
+
+Caso 668: 39
+Executou em: 145.0 microsegundos
+
+Caso 669: 34
+Executou em: 120.0 microsegundos
+
+Caso 670: 24
+Executou em: 86.0 microsegundos
+
+Caso 671: 28
+Executou em: 94.0 microsegundos
+
+Caso 672: 46
+Executou em: 207.0 microsegundos
+
+Caso 673: 28
+Executou em: 162.0 microsegundos
+
+Caso 674: 22
+Executou em: 108.0 microsegundos
+
+Caso 675: 21
+Executou em: 70.0 microsegundos
+
+Caso 676: 29
+Executou em: 97.0 microsegundos
+
+Caso 677: 36
+Executou em: 129.0 microsegundos
+
+Caso 678: 23
+Executou em: 72.0 microsegundos
+
+Caso 679: 15
+Executou em: 43.0 microsegundos
+
+Caso 680: 26
+Executou em: 84.0 microsegundos
+
+Caso 681: 13
+Executou em: 38.0 microsegundos
+
+Caso 682: 19
+Executou em: 51.0 microsegundos
+
+Caso 683: 21
+Executou em: 61.0 microsegundos
+
+Caso 684: 33
+Executou em: 114.0 microsegundos
+
+Caso 685: 42
+Executou em: 162.0 microsegundos
+
+Caso 686: 18
+Executou em: 54.0 microsegundos
+
+Caso 687: 13
+Executou em: 38.0 microsegundos
+
+Caso 688: 5
+Executou em: 18.0 microsegundos
+
+Caso 689: 41
+Executou em: 157.0 microsegundos
+
+Caso 690: 35
+Executou em: 121.0 microsegundos
+
+Caso 691: 21
+Executou em: 64.0 microsegundos
+
+Caso 692: 19
+Executou em: 56.0 microsegundos
+
+Caso 693: 38
+Executou em: 140.0 microsegundos
+
+Caso 694: 27
+Executou em: 88.0 microsegundos
+
+Caso 695: 41
+Executou em: 152.0 microsegundos
+
+Caso 696: 21
+Executou em: 66.0 microsegundos
+
+Caso 697: 41
+Executou em: 157.0 microsegundos
+
+Caso 698: 25
+Executou em: 86.0 microsegundos
+
+Caso 699: 36
+Executou em: 137.0 microsegundos
+
+Caso 700: 35
+Executou em: 129.0 microsegundos
+
+Caso 701: 16
+Executou em: 54.0 microsegundos
+
+Caso 702: 28
+Executou em: 118.0 microsegundos
+
+Caso 703: 17
+Executou em: 59.0 microsegundos
+
+Caso 704: 24
+Executou em: 76.0 microsegundos
+
+Caso 705: 23
+Executou em: 71.0 microsegundos
+
+Caso 706: 38
+Executou em: 141.0 microsegundos
+
+Caso 707: 26
+Executou em: 84.0 microsegundos
+
+Caso 708: 21
+Executou em: 64.0 microsegundos
+
+Caso 709: 35
+Executou em: 116.0 microsegundos
+
+Caso 710: 16
+Executou em: 47.0 microsegundos
+
+Caso 711: 42
+Executou em: 160.0 microsegundos
+
+Caso 712: 29
+Executou em: 96.0 microsegundos
+
+Caso 713: 16
+Executou em: 81.0 microsegundos
+
+Caso 714: 7
+Executou em: 43.0 microsegundos
+
+Caso 715: 43
+Executou em: 311.0 microsegundos
+
+Caso 716: 31
+Executou em: 214.0 microsegundos
+
+Caso 717: 15
+Executou em: 91.0 microsegundos
+
+Caso 718: 44
+Executou em: 194.0 microsegundos
+
+Caso 719: 20
+Executou em: 72.0 microsegundos
+
+Caso 720: 27
+Executou em: 102.0 microsegundos
+
+Caso 721: 33
+Executou em: 127.0 microsegundos
+
+Caso 722: 37
+Executou em: 141.0 microsegundos
+
+Caso 723: 12
+Executou em: 37.0 microsegundos
+
+Caso 724: 10
+Executou em: 30.0 microsegundos
+
+Caso 725: 8
+Executou em: 25.0 microsegundos
+
+Caso 726: 14
+Executou em: 40.0 microsegundos
+
+Caso 727: 13
+Executou em: 37.0 microsegundos
+
+Caso 728: 23
+Executou em: 72.0 microsegundos
+
+Caso 729: 19
+Executou em: 57.0 microsegundos
+
+Caso 730: 7
+Executou em: 23.0 microsegundos
+
+Caso 731: 24
+Executou em: 76.0 microsegundos
+
+Caso 732: 25
+Executou em: 77.0 microsegundos
+
+Caso 733: 36
+Executou em: 129.0 microsegundos
+
+Caso 734: 20
+Executou em: 61.0 microsegundos
+
+Caso 735: 32
+Executou em: 127.0 microsegundos
+
+Caso 736: 18
+Executou em: 54.0 microsegundos
+
+Caso 737: 14
+Executou em: 40.0 microsegundos
+
+Caso 738: 19
+Executou em: 57.0 microsegundos
+
+Caso 739: 14
+Executou em: 39.0 microsegundos
+
+Caso 740: 15
+Executou em: 43.0 microsegundos
+
+Caso 741: 5
+Executou em: 17.0 microsegundos
+
+Caso 742: 13
+Executou em: 37.0 microsegundos
+
+Caso 743: 37
+Executou em: 155.0 microsegundos
+
+Caso 744: 32
+Executou em: 113.0 microsegundos
+
+Caso 745: 37
+Executou em: 136.0 microsegundos
+
+Caso 746: 35
+Executou em: 126.0 microsegundos
+
+Caso 747: 20
+Executou em: 61.0 microsegundos
+
+Caso 748: 40
+Executou em: 152.0 microsegundos
+
+Caso 749: 9
+Executou em: 28.0 microsegundos
+
+Caso 750: 7
+Executou em: 22.0 microsegundos
+
+Caso 751: 25
+Executou em: 79.0 microsegundos
+
+Caso 752: 5
+Executou em: 17.0 microsegundos
+
+Caso 753: 11
+Executou em: 33.0 microsegundos
+
+Caso 754: 30
+Executou em: 102.0 microsegundos
+
+Caso 755: 32
+Executou em: 111.0 microsegundos
+
+Caso 756: 14
+Executou em: 41.0 microsegundos
+
+Caso 757: 6
+Executou em: 20.0 microsegundos
+
+Caso 758: 25
+Executou em: 80.0 microsegundos
+
+Caso 759: 40
+Executou em: 151.0 microsegundos
+
+Caso 760: 18
+Executou em: 54.0 microsegundos
+
+Caso 761: 5
+Executou em: 19.0 microsegundos
+
+Caso 762: 38
+Executou em: 137.0 microsegundos
+
+Caso 763: 30
+Executou em: 102.0 microsegundos
+
+Caso 764: 6
+Executou em: 22.0 microsegundos
+
+Caso 765: 11
+Executou em: 33.0 microsegundos
+
+Caso 766: 43
+Executou em: 168.0 microsegundos
+
+Caso 767: 43
+Executou em: 169.0 microsegundos
+
+Caso 768: 10
+Executou em: 30.0 microsegundos
+
+Caso 769: 15
+Executou em: 43.0 microsegundos
+
+Caso 770: 28
+Executou em: 91.0 microsegundos
+
+Caso 771: 41
+Executou em: 156.0 microsegundos
+
+Caso 772: 20
+Executou em: 58.0 microsegundos
+
+Caso 773: 28
+Executou em: 89.0 microsegundos
+
+Caso 774: 2
+Executou em: 13.0 microsegundos
+
+Caso 775: 40
+Executou em: 151.0 microsegundos
+
+Caso 776: 35
+Executou em: 126.0 microsegundos
+
+Caso 777: 21
+Executou em: 59.0 microsegundos
+
+Caso 778: 31
+Executou em: 104.0 microsegundos
+
+Caso 779: 39
+Executou em: 145.0 microsegundos
+
+Caso 780: 40
+Executou em: 163.0 microsegundos
+
+Caso 781: 28
+Executou em: 95.0 microsegundos
+
+Caso 782: 34
+Executou em: 121.0 microsegundos
+
+Caso 783: 43
+Executou em: 169.0 microsegundos
+
+Caso 784: 28
+Executou em: 91.0 microsegundos
+
+Caso 785: 14
+Executou em: 41.0 microsegundos
+
+Caso 786: 39
+Executou em: 148.0 microsegundos
+
+Caso 787: 10
+Executou em: 30.0 microsegundos
+
+Caso 788: 17
+Executou em: 64.0 microsegundos
+
+Caso 789: 6
+Executou em: 21.0 microsegundos
+
+Caso 790: 45
+Executou em: 180.0 microsegundos
+
+Caso 791: 33
+Executou em: 116.0 microsegundos
+
+Caso 792: 33
+Executou em: 114.0 microsegundos
+
+Caso 793: 44
+Executou em: 173.0 microsegundos
+
+Caso 794: 6
+Executou em: 17.0 microsegundos
+
+Caso 795: 31
+Executou em: 107.0 microsegundos
+
+Caso 796: 34
+Executou em: 121.0 microsegundos
+
+Caso 797: 36
+Executou em: 131.0 microsegundos
+
+Caso 798: 36
+Executou em: 131.0 microsegundos
+
+Caso 799: 24
+Executou em: 76.0 microsegundos
+
+Caso 800: 28
+Executou em: 93.0 microsegundos
+
+Caso 801: 16
+Executou em: 61.0 microsegundos
+
+Caso 802: 26
+Executou em: 85.0 microsegundos
+
+Caso 803: 23
+Executou em: 72.0 microsegundos
+
+Caso 804: 28
+Executou em: 92.0 microsegundos
+
+Caso 805: 35
+Executou em: 126.0 microsegundos
+
+Caso 806: 26
+Executou em: 85.0 microsegundos
+
+Caso 807: 24
+Executou em: 85.0 microsegundos
+
+Caso 808: 23
+Executou em: 71.0 microsegundos
+
+Caso 809: 42
+Executou em: 162.0 microsegundos
+
+Caso 810: 17
+Executou em: 50.0 microsegundos
+
+Caso 811: 38
+Executou em: 139.0 microsegundos
+
+Caso 812: 34
+Executou em: 120.0 microsegundos
+
+Caso 813: 11
+Executou em: 32.0 microsegundos
+
+Caso 814: 8
+Executou em: 23.0 microsegundos
+
+Caso 815: 34
+Executou em: 113.0 microsegundos
+
+Caso 816: 29
+Executou em: 97.0 microsegundos
+
+Caso 817: 40
+Executou em: 152.0 microsegundos
+
+Caso 818: 25
+Executou em: 88.0 microsegundos
+
+Caso 819: 36
+Executou em: 132.0 microsegundos
+
+Caso 820: 22
+Executou em: 68.0 microsegundos
+
+Caso 821: 14
+Executou em: 41.0 microsegundos
+
+Caso 822: 16
+Executou em: 45.0 microsegundos
+
+Caso 823: 46
+Executou em: 185.0 microsegundos
+
+Caso 824: 40
+Executou em: 147.0 microsegundos
+
+Caso 825: 32
+Executou em: 112.0 microsegundos
+
+Caso 826: 22
+Executou em: 66.0 microsegundos
+
+Caso 827: 6
+Executou em: 19.0 microsegundos
+
+Caso 828: 33
+Executou em: 116.0 microsegundos
+
+Caso 829: 13
+Executou em: 38.0 microsegundos
+
+Caso 830: 22
+Executou em: 68.0 microsegundos
+
+Caso 831: 3
+Executou em: 13.0 microsegundos
+
+Caso 832: 38
+Executou em: 142.0 microsegundos
+
+Caso 833: 22
+Executou em: 69.0 microsegundos
+
+Caso 834: 13
+Executou em: 37.0 microsegundos
+
+Caso 835: 36
+Executou em: 126.0 microsegundos
+
+Caso 836: 28
+Executou em: 94.0 microsegundos
+
+Caso 837: 21
+Executou em: 64.0 microsegundos
+
+Caso 838: 27
+Executou em: 88.0 microsegundos
+
+Caso 839: 43
+Executou em: 168.0 microsegundos
+
+Caso 840: 29
+Executou em: 97.0 microsegundos
+
+Caso 841: 11
+Executou em: 32.0 microsegundos
+
+Caso 842: 13
+Executou em: 38.0 microsegundos
+
+Caso 843: 29
+Executou em: 97.0 microsegundos
+
+Caso 844: 33
+Executou em: 115.0 microsegundos
+
+Caso 845: 18
+Executou em: 51.0 microsegundos
+
+Caso 846: 26
+Executou em: 82.0 microsegundos
+
+Caso 847: 29
+Executou em: 96.0 microsegundos
+
+Caso 848: 25
+Executou em: 76.0 microsegundos
+
+Caso 849: 41
+Executou em: 156.0 microsegundos
+
+Caso 850: 41
+Executou em: 157.0 microsegundos
+
+Caso 851: 38
+Executou em: 139.0 microsegundos
+
+Caso 852: 27
+Executou em: 88.0 microsegundos
+
+Caso 853: 21
+Executou em: 62.0 microsegundos
+
+Caso 854: 38
+Executou em: 139.0 microsegundos
+
+Caso 855: 27
+Executou em: 88.0 microsegundos
+
+Caso 856: 20
+Executou em: 61.0 microsegundos
+
+Caso 857: 25
+Executou em: 80.0 microsegundos
+
+Caso 858: 18
+Executou em: 54.0 microsegundos
+
+Caso 859: 19
+Executou em: 59.0 microsegundos
+
+Caso 860: 29
+Executou em: 158.0 microsegundos
+
+Caso 861: 36
+Executou em: 231.0 microsegundos
+
+Caso 862: 28
+Executou em: 132.0 microsegundos
+
+Caso 863: 7
+Executou em: 33.0 microsegundos
+
+Caso 864: 31
+Executou em: 106.0 microsegundos
+
+Caso 865: 18
+Executou em: 61.0 microsegundos
+
+Caso 866: 32
+Executou em: 124.0 microsegundos
+
+Caso 867: 6
+Executou em: 20.0 microsegundos
+
+Caso 868: 25
+Executou em: 80.0 microsegundos
+
+Caso 869: 30
+Executou em: 102.0 microsegundos
+
+Caso 870: 37
+Executou em: 137.0 microsegundos
+
+Caso 871: 22
+Executou em: 69.0 microsegundos
+
+Caso 872: 38
+Executou em: 140.0 microsegundos
+
+Caso 873: 10
+Executou em: 30.0 microsegundos
+
+Caso 874: 46
+Executou em: 184.0 microsegundos
+
+Caso 875: 38
+Executou em: 141.0 microsegundos
+
+Caso 876: 13
+Executou em: 38.0 microsegundos
+
+Caso 877: 42
+Executou em: 163.0 microsegundos
+
+Caso 878: 23
+Executou em: 73.0 microsegundos
+
+Caso 879: 33
+Executou em: 117.0 microsegundos
+
+Caso 880: 26
+Executou em: 85.0 microsegundos
+
+Caso 881: 18
+Executou em: 53.0 microsegundos
+
+Caso 882: 42
+Executou em: 162.0 microsegundos
+
+Caso 883: 29
+Executou em: 98.0 microsegundos
+
+Caso 884: 40
+Executou em: 155.0 microsegundos
+
+Caso 885: 4
+Executou em: 22.0 microsegundos
+
+Caso 886: 9
+Executou em: 32.0 microsegundos
+
+Caso 887: 16
+Executou em: 54.0 microsegundos
+
+Caso 888: 33
+Executou em: 127.0 microsegundos
+
+Caso 889: 27
+Executou em: 93.0 microsegundos
+
+Caso 890: 12
+Executou em: 68.0 microsegundos
+
+Caso 891: 40
+Executou em: 176.0 microsegundos
+
+Caso 892: 36
+Executou em: 142.0 microsegundos
+
+Caso 893: 10
+Executou em: 39.0 microsegundos
+
+Caso 894: 12
+Executou em: 48.0 microsegundos
+
+Caso 895: 24
+Executou em: 83.0 microsegundos
+
+Caso 896: 1
+Executou em: 19.0 microsegundos
+
+Caso 897: 13
+Executou em: 48.0 microsegundos
+
+Caso 898: 23
+Executou em: 153.0 microsegundos
+
+Caso 899: 9
+Executou em: 48.0 microsegundos
+
+Caso 900: 4
+Executou em: 29.0 microsegundos
+
+Caso 901: 39
+Executou em: 166.0 microsegundos
+
+Caso 902: 10
+Executou em: 49.0 microsegundos
+
+Caso 903: 20
+Executou em: 84.0 microsegundos
+
+Caso 904: 40
+Executou em: 148.0 microsegundos
+
+Caso 905: 6
+Executou em: 20.0 microsegundos
+
+Caso 906: 4
+Executou em: 17.0 microsegundos
+
+Caso 907: 32
+Executou em: 111.0 microsegundos
+
+Caso 908: 17
+Executou em: 50.0 microsegundos
+
+Caso 909: 42
+Executou em: 170.0 microsegundos
+
+Caso 910: 23
+Executou em: 72.0 microsegundos
+
+Caso 911: 26
+Executou em: 85.0 microsegundos
+
+Caso 912: 20
+Executou em: 59.0 microsegundos
+
+Caso 913: 39
+Executou em: 144.0 microsegundos
+
+Caso 914: 17
+Executou em: 51.0 microsegundos
+
+Caso 915: 25
+Executou em: 79.0 microsegundos
+
+Caso 916: 13
+Executou em: 39.0 microsegundos
+
+Caso 917: 7
+Executou em: 23.0 microsegundos
+
+Caso 918: 40
+Executou em: 152.0 microsegundos
+
+Caso 919: 4
+Executou em: 15.0 microsegundos
+
+Caso 920: 5
+Executou em: 19.0 microsegundos
+
+Caso 921: 16
+Executou em: 44.0 microsegundos
+
+Caso 922: 25
+Executou em: 77.0 microsegundos
+
+Caso 923: 46
+Executou em: 185.0 microsegundos
+
+Caso 924: 20
+Executou em: 61.0 microsegundos
+
+Caso 925: 5
+Executou em: 18.0 microsegundos
+
+Caso 926: 24
+Executou em: 76.0 microsegundos
+
+Caso 927: 29
+Executou em: 97.0 microsegundos
+
+Caso 928: 3
+Executou em: 15.0 microsegundos
+
+Caso 929: 13
+Executou em: 36.0 microsegundos
+
+Caso 930: 38
+Executou em: 141.0 microsegundos
+
+Caso 931: 42
+Executou em: 163.0 microsegundos
+
+Caso 932: 37
+Executou em: 126.0 microsegundos
+
+Caso 933: 36
+Executou em: 128.0 microsegundos
+
+Caso 934: 40
+Executou em: 157.0 microsegundos
+
+Caso 935: 36
+Executou em: 140.0 microsegundos
+
+Caso 936: 22
+Executou em: 68.0 microsegundos
+
+Caso 937: 25
+Executou em: 80.0 microsegundos
+
+Caso 938: 20
+Executou em: 61.0 microsegundos
+
+Caso 939: 40
+Executou em: 146.0 microsegundos
+
+Caso 940: 10
+Executou em: 29.0 microsegundos
+
+Caso 941: 9
+Executou em: 26.0 microsegundos
+
+Caso 942: 28
+Executou em: 106.0 microsegundos
+
+Caso 943: 8
+Executou em: 34.0 microsegundos
+
+Caso 944: 46
+Executou em: 179.0 microsegundos
+
+Caso 945: 28
+Executou em: 107.0 microsegundos
+
+Caso 946: 21
+Executou em: 83.0 microsegundos
+
+Caso 947: 6
+Executou em: 26.0 microsegundos
+
+Caso 948: 17
+Executou em: 58.0 microsegundos
+
+Caso 949: 19
+Executou em: 64.0 microsegundos
+
+Caso 950: 41
+Executou em: 156.0 microsegundos
+
+Caso 951: 33
+Executou em: 116.0 microsegundos
+
+Caso 952: 5
+Executou em: 18.0 microsegundos
+
+Caso 953: 25
+Executou em: 73.0 microsegundos
+
+Caso 954: 14
+Executou em: 41.0 microsegundos
+
+Caso 955: 14
+Executou em: 40.0 microsegundos
+
+Caso 956: 30
+Executou em: 101.0 microsegundos
+
+Caso 957: 26
+Executou em: 84.0 microsegundos
+
+Caso 958: 38
+Executou em: 153.0 microsegundos
+
+Caso 959: 29
+Executou em: 97.0 microsegundos
+
+Caso 960: 41
+Executou em: 157.0 microsegundos
+
+Caso 961: 30
+Executou em: 101.0 microsegundos
+
+Caso 962: 36
+Executou em: 129.0 microsegundos
+
+Caso 963: 18
+Executou em: 55.0 microsegundos
+
+Caso 964: 20
+Executou em: 61.0 microsegundos
+
+Caso 965: 25
+Executou em: 81.0 microsegundos
+
+Caso 966: 21
+Executou em: 64.0 microsegundos
+
+Caso 967: 9
+Executou em: 26.0 microsegundos
+
+Caso 968: 26
+Executou em: 83.0 microsegundos
+
+Caso 969: 9
+Executou em: 26.0 microsegundos
+
+Caso 970: 26
+Executou em: 85.0 microsegundos
+
+Caso 971: 9
+Executou em: 28.0 microsegundos
+
+Caso 972: 38
+Executou em: 142.0 microsegundos
+
+Caso 973: 22
+Executou em: 68.0 microsegundos
+
+Caso 974: 19
+Executou em: 56.0 microsegundos
+
+Caso 975: 4
+Executou em: 17.0 microsegundos
+
+Caso 976: 35
+Executou em: 126.0 microsegundos
+
+Caso 977: 3
+Executou em: 15.0 microsegundos
+
+Caso 978: 33
+Executou em: 122.0 microsegundos
+
+Caso 979: 32
+Executou em: 112.0 microsegundos
+
+Caso 980: 10
+Executou em: 28.0 microsegundos
+
+Caso 981: 33
+Executou em: 118.0 microsegundos
+
+Caso 982: 25
+Executou em: 81.0 microsegundos
+
+Caso 983: 17
+Executou em: 52.0 microsegundos
+
+Caso 984: 3
+Executou em: 15.0 microsegundos
+
+Caso 985: 5
+Executou em: 19.0 microsegundos
+
+Caso 986: 27
+Executou em: 90.0 microsegundos
+
+Caso 987: 32
+Executou em: 111.0 microsegundos
+
+Caso 988: 12
+Executou em: 41.0 microsegundos
+
+Caso 989: 40
+Executou em: 166.0 microsegundos
+
+Caso 990: 42
+Executou em: 164.0 microsegundos
+
+Caso 991: 38
+Executou em: 140.0 microsegundos
+
+Caso 992: 17
+Executou em: 54.0 microsegundos
+
+Caso 993: 27
+Executou em: 114.0 microsegundos
+
+Caso 994: 13
+Executou em: 46.0 microsegundos
+
+Caso 995: 16
+Executou em: 63.0 microsegundos
+
+Caso 996: 44
+Executou em: 175.0 microsegundos
+
+Caso 997: 8
+Executou em: 26.0 microsegundos
+
+Caso 998: 43
+Executou em: 169.0 microsegundos
+
+Caso 999: 5
+Executou em: 18.0 microsegundos
+
+Caso 1000: 28
+Executou em: 91.0 microsegundos
+
